@@ -1,0 +1,8 @@
+
+streamlit run "C:\Users\HP\OneDrive\Desktop\Disease Prediction System\disease_prediction.py"
+
+
+
+
+
+
